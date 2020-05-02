@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ritos\desktop\rafivaiyacis\array\compareevenoddindexoftwoarray\compareevenoddindexoftwoarray\source.cpp(39): warning C4552: '!=': result of expression not used
+c:\users\ritos\desktop\rafivaiyacis\array\compareevenoddindexoftwoarray\compareevenoddindexoftwoarray\source.cpp(43): warning C4552: '!=': result of expression not used
+  CompareEvenOddIndexOfTwoArray.vcxproj -> C:\Users\Ritos\Desktop\rafivaiyaCIS\Array\CompareEvenOddIndexOfTwoArray\Debug\CompareEvenOddIndexOfTwoArray.exe
