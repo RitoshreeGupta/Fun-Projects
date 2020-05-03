@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ritos\desktop\rafivaiyacis\recursion\binarysearchrecursion\binarysearchrecursion\source.cpp(34): warning C4715: 'BinarySearch': not all control paths return a value
+  binarySearchRecursion.vcxproj -> C:\Users\Ritos\Desktop\rafivaiyaCIS\recursion\binarySearchRecursion\Debug\binarySearchRecursion.exe
