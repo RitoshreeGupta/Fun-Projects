@@ -1,0 +1,4 @@
+Factorial - n! = n*(n-1)*(n-2)*...*2*1 = n*(n-1)!
+Fibonacci - Fn = Fn-1 + Fn-2
+Power - a^2 = a*a
+Sum of the Numbers - Add all the numbers and print the result (ex: 1+2+3 = 6)
