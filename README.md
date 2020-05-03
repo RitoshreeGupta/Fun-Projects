@@ -1,6 +1,6 @@
 # Fun-Projects
 
-`Data Structure - Array `
+# `Data Structure - Array `
 
 | Project Name | Description |
  :-----------:| :---------: |
