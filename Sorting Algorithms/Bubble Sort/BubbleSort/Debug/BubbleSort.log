@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ritos\desktop\rafivaiyacis\sorting\bubblesort\bubblesort\source.cpp(31): warning C4101: 'step': unreferenced local variable
+c:\users\ritos\desktop\rafivaiyacis\sorting\bubblesort\bubblesort\source.cpp(31): warning C4101: 'temp': unreferenced local variable
+  BubbleSort.vcxproj -> C:\Users\Ritos\Desktop\rafivaiyaCIS\Sorting\BubbleSort\Debug\BubbleSort.exe
